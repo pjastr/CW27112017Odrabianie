@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kasa_Fiskalna.Aplikacja">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACABCAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Aplikacja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kasa_Fiskalna.Koszyk">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIIAAABAAAAAAAAABAAAAAAAAAAQAAAAgAAAAAAAABA=</HashCode>
+      <FileName>Koszyk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kasa_Fiskalna.Produkt">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAggAAAAAgAAAAACAAAQAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Produkt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kasa_Fiskalna.Program">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

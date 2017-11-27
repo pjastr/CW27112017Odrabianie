@@ -1,0 +1,18 @@
+C:\Users\local\Desktop\Kasa_Fiskalna\Kasa_Fiskalna\bin\Debug\Kasa_Fiskalna.exe.config
+C:\Users\local\Desktop\Kasa_Fiskalna\Kasa_Fiskalna\obj\Debug\Kasa_Fiskalna.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Kasa_Fiskalna\Kasa_Fiskalna\bin\Debug\Kasa_Fiskalna.exe
+C:\Users\local\Desktop\Kasa_Fiskalna\Kasa_Fiskalna\bin\Debug\Kasa_Fiskalna.pdb
+C:\Users\local\Desktop\Kasa_Fiskalna\Kasa_Fiskalna\obj\Debug\Kasa_Fiskalna.exe
+C:\Users\local\Desktop\Kasa_Fiskalna\Kasa_Fiskalna\obj\Debug\Kasa_Fiskalna.pdb
+C:\Users\Piotrek\Desktop\Kasa fiskalna\2\Kasa_Fiskalna-master\Kasa_Fiskalna\Kasa_Fiskalna\bin\Debug\Kasa_Fiskalna.exe.config
+C:\Users\Piotrek\Desktop\Kasa fiskalna\2\Kasa_Fiskalna-master\Kasa_Fiskalna\Kasa_Fiskalna\obj\Debug\Kasa_Fiskalna.exe
+C:\Users\Piotrek\Desktop\Kasa fiskalna\2\Kasa_Fiskalna-master\Kasa_Fiskalna\Kasa_Fiskalna\obj\Debug\Kasa_Fiskalna.pdb
+C:\Users\Piotrek\Desktop\Kasa fiskalna\2\Kasa_Fiskalna-master\Kasa_Fiskalna\Kasa_Fiskalna\bin\Debug\Kasa_Fiskalna.exe
+C:\Users\Piotrek\Desktop\Kasa fiskalna\2\Kasa_Fiskalna-master\Kasa_Fiskalna\Kasa_Fiskalna\bin\Debug\Kasa_Fiskalna.pdb
+C:\Users\Piotrek\Desktop\Kasa fiskalna\2\Kasa_Fiskalna-master\Kasa_Fiskalna\Kasa_Fiskalna\obj\Debug\Kasa_Fiskalna.csprojResolveAssemblyReference.cache
+C:\Users\local\Downloads\Kasa_Fiskalna-master\Kasa_Fiskalna-master\Kasa_Fiskalna\Kasa_Fiskalna\bin\Debug\Kasa_Fiskalna.exe.config
+C:\Users\local\Downloads\Kasa_Fiskalna-master\Kasa_Fiskalna-master\Kasa_Fiskalna\Kasa_Fiskalna\obj\Debug\Kasa_Fiskalna.exe
+C:\Users\local\Downloads\Kasa_Fiskalna-master\Kasa_Fiskalna-master\Kasa_Fiskalna\Kasa_Fiskalna\obj\Debug\Kasa_Fiskalna.pdb
+C:\Users\local\Downloads\Kasa_Fiskalna-master\Kasa_Fiskalna-master\Kasa_Fiskalna\Kasa_Fiskalna\bin\Debug\Kasa_Fiskalna.exe
+C:\Users\local\Downloads\Kasa_Fiskalna-master\Kasa_Fiskalna-master\Kasa_Fiskalna\Kasa_Fiskalna\bin\Debug\Kasa_Fiskalna.pdb
+C:\Users\local\Downloads\Kasa_Fiskalna-master\Kasa_Fiskalna-master\Kasa_Fiskalna\Kasa_Fiskalna\obj\Debug\Kasa_Fiskalna.csprojResolveAssemblyReference.cache
